@@ -1,0 +1,8 @@
+C:\Users\cengi\source\repos\CengizEryigitOdev1\CengizEryigitOdev1\bin\Debug\CengizEryigitOdev1.exe.config
+C:\Users\cengi\source\repos\CengizEryigitOdev1\CengizEryigitOdev1\bin\Debug\CengizEryigitOdev1.exe
+C:\Users\cengi\source\repos\CengizEryigitOdev1\CengizEryigitOdev1\bin\Debug\CengizEryigitOdev1.pdb
+C:\Users\cengi\source\repos\CengizEryigitOdev1\CengizEryigitOdev1\obj\Debug\CengizEryigitOdev1.csproj.AssemblyReference.cache
+C:\Users\cengi\source\repos\CengizEryigitOdev1\CengizEryigitOdev1\obj\Debug\CengizEryigitOdev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cengi\source\repos\CengizEryigitOdev1\CengizEryigitOdev1\obj\Debug\CengizEryigitOdev1.csproj.CoreCompileInputs.cache
+C:\Users\cengi\source\repos\CengizEryigitOdev1\CengizEryigitOdev1\obj\Debug\CengizEryigitOdev1.exe
+C:\Users\cengi\source\repos\CengizEryigitOdev1\CengizEryigitOdev1\obj\Debug\CengizEryigitOdev1.pdb
